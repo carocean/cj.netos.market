@@ -1,0 +1,270 @@
+[
+  {
+    "id": "taobao",
+    "title": "淘宝",
+    "state": 1,
+    "sites": [
+      {
+        "title": "大额券",
+        "sort": 0,
+        "channels": [
+          {
+            "code": "3756",
+            "title": "综合",
+            "sort": 0
+          },{
+            "code": "3767",
+            "title": "女装",
+            "sort": 1
+          },{
+            "code": "3758",
+            "title": "家居家装",
+            "sort": 2
+          },{
+            "code": "3759",
+            "title": "数码家电",
+            "sort": 3
+          },{
+            "code": "3762",
+            "title": "鞋包配饰",
+            "sort": 4
+          },{
+            "code": "3763",
+            "title": "美妆个护",
+            "sort": 5
+          },{
+            "code": "3764",
+            "title": "男装",
+            "sort": 6
+          },{
+            "code": "3765",
+            "title": "内衣",
+            "sort": 7
+          },{
+            "code": "3760",
+            "title": "母婴",
+            "sort": 8
+          },{
+            "code": "3761",
+            "title": "食品",
+            "sort": 9
+          },{
+            "code": "3766",
+            "title": "运动户外",
+            "sort": 10
+          }
+        ]
+      },{
+        "title": "高佣榜",
+        "sort": 1,
+        "channels": [
+          {
+            "code": "13366",
+            "title": "综合",
+            "sort": 0
+          },{
+            "code": "13367",
+            "title": "女装",
+            "sort": 1
+          },{
+            "code": "13368",
+            "title": "家居家装",
+            "sort": 2
+          },{
+            "code": "13369",
+            "title": "数码家电",
+            "sort": 3
+          },{
+            "code": "13370",
+            "title": "鞋包配饰",
+            "sort": 4
+          },{
+            "code": "13371",
+            "title": "美妆个护",
+            "sort": 5
+          },{
+            "code": "13372",
+            "title": "男装",
+            "sort": 6
+          },{
+            "code": "13373",
+            "title": "内衣",
+            "sort": 7
+          },{
+            "code": "13374",
+            "title": "母婴",
+            "sort": 8
+          },{
+            "code": "13375",
+            "title": "食品",
+            "sort": 9
+          },{
+            "code": "13376",
+            "title": "运动户外",
+            "sort": 10
+          }
+        ]
+      },{
+        "title": "母婴主题",
+        "sort": 2,
+        "channels": [
+          {
+            "code": "4040",
+            "title": "备孕",
+            "sort": 0
+          },{
+            "code": "4041",
+            "title": "0至6个月",
+            "sort": 1
+          },{
+            "code": "4044",
+            "title": "4至6岁",
+            "sort": 2
+          },{
+            "code": "4042",
+            "title": "7至12个月",
+            "sort": 3
+          },{
+            "code": "4043",
+            "title": "1至3岁",
+            "sort": 4
+          },{
+            "code": "4045",
+            "title": "7至12岁",
+            "sort": 5
+          }
+        ]
+      },{
+        "title": "品牌券",
+        "sort": 3,
+        "channels": [
+          {
+            "code": "3786",
+            "title": "综合",
+            "sort": 0
+          },{
+            "code": "3788",
+            "title": "女装",
+            "sort": 1
+          },{
+            "code": "3792",
+            "title": "家居家装",
+            "sort": 2
+          },{
+            "code": "3793",
+            "title": "数码家电",
+            "sort": 3
+          },{
+            "code": "3796",
+            "title": "鞋包配饰",
+            "sort": 4
+          },{
+            "code": "3794",
+            "title": "美妆个护",
+            "sort": 5
+          },{
+            "code": "3790",
+            "title": "男装",
+            "sort": 6
+          },{
+            "code": "3787",
+            "title": "内衣",
+            "sort": 7
+          },{
+            "code": "3789",
+            "title": "母婴",
+            "sort": 8
+          },{
+            "code": "3791",
+            "title": "食品",
+            "sort": 9
+          },{
+            "code": "3795",
+            "title": "运动户外",
+            "sort": 10
+          }
+        ]
+      },{
+        "title": "特惠",
+        "sort": 4,
+        "channels": [
+          {
+            "code": "4094",
+            "title": "特惠宝贝",
+            "sort": 0
+          }
+        ]
+      },{
+        "title": "潮流范",
+        "sort": 5,
+        "channels": [
+          {
+            "code": "4093",
+            "title": "潮流范",
+            "sort": 0
+          }
+        ]
+      },{
+        "title": "有好货",
+        "sort": 6,
+        "channels": [
+          {
+            "code": "4092",
+            "title": "品质好货",
+            "sort": 0
+          }
+        ]
+      },{
+        "title": "好券直播",
+        "sort": 7,
+        "channels": [
+          {
+            "code": "3756",
+            "title": "综合",
+            "sort": 0
+          },{
+            "code": "3767",
+            "title": "女装",
+            "sort": 1
+          },{
+            "code": "3758",
+            "title": "家居家装",
+            "sort": 2
+          },{
+            "code": "3759",
+            "title": "数码家电",
+            "sort": 3
+          },{
+            "code": "3762",
+            "title": "鞋包配饰",
+            "sort": 4
+          },{
+            "code": "3763",
+            "title": "美妆个护",
+            "sort": 5
+          },{
+            "code": "3764",
+            "title": "男装",
+            "sort": 6
+          },{
+            "code": "3765",
+            "title": "内衣",
+            "sort": 7
+          },{
+            "code": "3760",
+            "title": "母婴",
+            "sort": 8
+          },{
+            "code": "3761",
+            "title": "食品",
+            "sort": 9
+          },{
+            "code": "3766",
+            "title": "运动户外",
+            "sort": 10
+          }
+        ]
+      }
+    ]
+  }
+]
