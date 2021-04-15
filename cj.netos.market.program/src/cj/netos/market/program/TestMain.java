@@ -21,9 +21,9 @@ public class TestMain {
         req.setPageSize(20L);
         req.setAdzoneId(111276750046L);
         req.setPageNo(1L);
-        req.setMaterialId(3767L);
+//        req.setMaterialId(3767L);
 
-        req.setQ("法式");
+        req.setQ("女");
 
         List<TbkDgMaterialOptionalRequest.Ucrowdrankitems> list2 = new ArrayList<TbkDgMaterialOptionalRequest.Ucrowdrankitems>();
 //        TbkDgMaterialOptionalRequest.Ucrowdrankitems obj3 = new TbkDgMaterialOptionalRequest.Ucrowdrankitems();

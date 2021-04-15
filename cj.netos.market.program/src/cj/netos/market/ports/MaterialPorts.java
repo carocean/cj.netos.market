@@ -60,7 +60,7 @@ public class MaterialPorts extends AbstractPorts implements IMaterialPorts {
         req.setPageSize(limit);
         req.setAdzoneId(getAdzoneId());
         req.setPageNo(offset);
-        req.setMaterialId(materialId);
+//        req.setMaterialId(materialId);
         req.setQ(query);
         req.setSort("tk_rate_des");
         req.setHasCoupon(true);
